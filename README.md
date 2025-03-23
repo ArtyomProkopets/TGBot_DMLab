@@ -21,3 +21,4 @@ SkatBot — это простой и удобный телеграм-бот, к�
 ![image](https://github.com/user-attachments/assets/a61cda32-997e-4a79-a770-f0b7c9bb5cb2)
 ![image](https://github.com/user-attachments/assets/7e2bddde-8db0-46fc-96ec-09caf6d3e483)
 ![image](https://github.com/user-attachments/assets/659f25f0-7fe4-4720-b02f-a6323a92fed4)
+![image](https://github.com/user-attachments/assets/284f35e8-3e5d-418d-8c7e-ba958f4f32cf)
